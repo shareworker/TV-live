@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-30 06:16:50,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-01-30 18:23:44,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -549,6 +549,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-12.ctv
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-8.ctv
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-9.ctv
+广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-15.m3u8
+广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-16.php
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-6.ctv
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-15.ctv
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-7.ctv
@@ -580,6 +582,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-15.ctv
 佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-13.ctv
 佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-5.ctv
+佛山综合,https://t.freetv.fun/live/fo-shan-zong-he.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
