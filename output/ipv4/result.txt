@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-15 19:19:53,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
+2026-07-16 06:46:33,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 
 📺央视频道,#genre#
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
@@ -10,7 +10,6 @@ CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-CCTV-10,http://drive.mxmy.net:8888/udp/239.3.1.63:8116
 CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=bbbd054778ab532edfa97bf7c5395746&wsTime=6a544fee&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026071310394131FD5A22CCB9DDAFA77E-5XIF43
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
@@ -33,15 +32,15 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 东南卫视,http://drive.mxmy.net:8888/udp/239.3.1.156:8148
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
-广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
+广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
-吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
 吉林卫视,http://192.151.150.154/live/jlwshd.m3u8
+吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
@@ -50,8 +49,5 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 辽宁卫视,http://drive.mxmy.net:8888/udp/239.3.1.210:8056
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
-四川卫视,http://182.37.41.46:8154/tsfile/live/0123_1.m3u8?key=txiptv
-深圳卫视,http://drive.mxmy.net:8888/udp/239.3.1.134:8020
-深圳卫视,http://58.56.162.102:4466/newlive/live/hls/24/live.m3u8
 
 ☘️广东频道,#genre#
