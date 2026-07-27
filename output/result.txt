@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-27 06:49:27,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-07-27 20:50:41,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -44,14 +44,14 @@ CCTV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV-4,https://www.freetv.top/migu/631780421.m3u8?migutoken=fefc6a44400a0dd448699ae0ce3d6e2c5a0f49b8d48adb36e747c4fbab039337eb3244f9951acbddaf26b7bf51597a7d1b43c8845e67fd5914ece875dcad325bb388200bc0f12fdff727d03e2d
 CCTV-5,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HD-265-8M/G_CCTV-5PLUS-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 CCTV-5,http://139.227.21.22:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
-CCTV-5,http://60.4.29.80:8077/rtp/239.253.92.82:8013
 CCTV-5,http://60.4.29.80:8077/rtp/239.253.92.181:6046
-CCTV-5,http://173.208.212.130:8181/1080p/cctv5.m3u8
+CCTV-5,http://60.4.29.80:8077/rtp/239.253.92.82:8013
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
-CCTV-5,http://112.192.73.95:8484/rtp/239.0.0.14:5140
-CCTV-5,http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
-CCTV-5,http://112.192.73.95:8484/rtp/239.0.0.22:5140
+CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
+CCTV-5,http://39.77.163.221:4002/rtp/239.253.254.80:8000
+CCTV-5,http://112.192.72.188:8484/rtp/239.0.0.22:5140
+CCTV-5,http://112.192.72.188:8484/rtp/239.0.0.14:5140
+CCTV-5,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2
 CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 CCTV-5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
@@ -250,9 +250,9 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 浙江卫视,https://migu.188766.xyz/?migutoken=316df023372b0a404e4aa98ec527b949&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 浙江卫视,https://migu.188766.xyz/?migutoken=f691800010035c5b05887497ba42d18d&id=z_jws&type=sz
 浙江卫视,https://migu.188766.xyz/?migutoken=c932c25a9bb54058cacd29676f4e1582&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
 湖南卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_HUNAN-HD-265-8M/G_HUNAN-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://123.118.55.165:45237/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
@@ -260,8 +260,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 湖南卫视,https://tv.iill.top/migu/hnws&token=0749f23d5e878af0a55d054879eccdba22a00cca8f13177bf8d0007c856ca9b9
 湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
 湖南卫视,https://migu.188766.xyz/?migutoken=04f0bd8d7a24f80832b352789e86fd12&id=hnws&type=sz
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_BEIJING-HD-265-8M/G_BEIJING-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
 北京卫视,https://migu.188766.xyz/?migutoken=55525ca5930d71c443062717821568b2&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
@@ -272,7 +272,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 北京卫视,https://migu.188766.xyz/?migutoken=2fa62bbbc3f969581cf0915344135661&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 湖北卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_HUBEI-HD-265-8M/G_HUBEI-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
-湖北卫视,http://121.19.134.253:808/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
 湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
 湖北卫视,https://migu.188766.xyz/?migutoken=613b00cdd77f67579d28978c67e89e77&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
@@ -280,6 +279,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 湖北卫视,https://migu.188766.xyz/?migutoken=b3ca91c05b39f2bd87e8a1887e917cf9&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
 湖北卫视,https://migu.188766.xyz/?migutoken=22bd49c00add8f364797fc13207c707e&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
 湖北卫视,https://migu.188766.xyz/?migutoken=3dfd618ab90303b83d1a0192859294e0&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
+湖北卫视,https://migu.188766.xyz/?migutoken=113ab9c895c1921cf6e77bf26ea0823a&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
 黑龙江卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_HEILONGJIANG-HD-265-8M/G_HEILONGJIANG-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 黑龙江卫视,http://drive.mxmy.net:8888/udp/239.3.1.133:8016
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
@@ -335,8 +335,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi.php
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-3.m3u8
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-2.php
-广西卫视,http://198.204.228.26/live/gxwshd.m3u8
 广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
+广西卫视,http://198.204.228.26/live/gxwshd.m3u8
 广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -415,7 +415,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 江西卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226504/index.m3u8
 辽宁卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_LIAONING-HD-265-8M/G_LIAONING-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 辽宁卫视,http://drive.mxmy.net:8888/udp/239.3.1.210:8056
-辽宁卫视,http://121.19.134.22:808/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
 辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
 辽宁卫视,https://migu.188766.xyz/?migutoken=4d2b1bebb31580efa304f7afb8f23da8&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
@@ -423,6 +422,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 辽宁卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226254/index.m3u8
 辽宁卫视,https://migu.188766.xyz/?migutoken=3778caed5368b7d9ab6ce2b096606f5a&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
 辽宁卫视,https://migu.188766.xyz/?migutoken=b02645ae4d944ff93861655c35b9bf0e&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
+辽宁卫视,https://migu.188766.xyz/?migutoken=8678735b69cb2943fba864732b31af2d&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 内蒙古卫视,https://migu.188766.xyz/?migutoken=72a983275cbee3aa6d0001c2ab4847d3&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
@@ -456,13 +456,13 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 山东卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_SHANDONG-HD-265-8M/G_SHANDONG-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
-山东卫视,http://121.19.134.22:808/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 山东卫视,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
 山东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 山东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226456/index.m3u8
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-9.php
+山东卫视,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
 山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 山西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
