@@ -1,16 +1,14 @@
 🕘️更新时间,#genre#
-2026-08-08 06:23:36,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2026-08-08 18:20:31,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 📺央视频道,#genre#
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.80:8000
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
-CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
-CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
+CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-9,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
@@ -35,8 +33,8 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
 东南卫视,http://drive.mxmy.net:8888/udp/239.3.1.156:8148
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
-广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
+广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072

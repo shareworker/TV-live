@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-08 06:23:36,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-08-08 18:20:31,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -42,16 +42,16 @@ CCTV-4,https://migu.188766.xyz/?migutoken=23007688fc75bbf874b66f0d610eaf5c&id=CC
 CCTV-4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
 CCTV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
 CCTV-4,https://www.freetv.top/migu/631780421.m3u8?migutoken=fefc6a44400a0dd448699ae0ce3d6e2c5a0f49b8d48adb36e747c4fbab039337eb3244f9951acbddaf26b7bf51597a7d1b43c8845e67fd5914ece875dcad325bb388200bc0f12fdff727d03e2d
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.80:8000
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
-CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
-CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
+CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903
+CCTV-5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5,https://migu.188766.xyz/?migutoken=c8e0133967a0e288f7032f0e27300aa3&id=CCTV5&type=yy
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2
 CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 CCTV-5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
@@ -334,8 +334,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi.php
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-3.m3u8
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-2.php
-广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
+广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
 广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
