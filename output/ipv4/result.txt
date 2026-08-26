@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2026-08-26 06:15:30,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2026-08-26 18:23:41,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 📺央视频道,#genre#
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
-CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
-CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
-CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
-CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
 CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
+CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-9,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
