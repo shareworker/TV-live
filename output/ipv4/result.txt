@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-09 07:44:44,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2026-09-09 22:00:55,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 📺央视频道,#genre#
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
@@ -13,7 +13,6 @@ CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
 CCTV-12,http://182.114.48.115:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://182.114.48.115:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://drive.mxmy.net:8888/udp/239.3.1.65:8132
-CCTV-14,http://182.114.48.115:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
