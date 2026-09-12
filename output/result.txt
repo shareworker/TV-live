@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-12 21:13:47,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-09-13 07:31:12,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -533,7 +533,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 
 ☘️广东频道,#genre#
 广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
-广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzja
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,https://hk.188766.xyz/?migutoken=ccd667a282dd634d5c21f46c4785eec1&id=gd_gdzj&type=sz
@@ -542,7 +541,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-16.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-4.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-18.ctv
-广东体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty
+广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-19.ctv
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
@@ -552,7 +551,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-11.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8
-广东新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdxw
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-17.ctv
 广东新闻,https://hk.188766.xyz/?migutoken=01eef7fe19975ca0f674a648e3bfbb6a&id=gd_gdxw&type=sz
 广东新闻,https://hls-gateway.vpstv.net/streams/708873.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-27.ctv
@@ -562,6 +561,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-20.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-10.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-14.ctv
+广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-25.ctv
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520

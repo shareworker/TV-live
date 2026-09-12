@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-12 21:13:47,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2026-09-13 07:31:12,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 📺央视频道,#genre#
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
@@ -32,6 +32,3 @@ CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 
 ☘️广东频道,#genre#
 广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
-广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzja
-广东体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty
-广东新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdxw
