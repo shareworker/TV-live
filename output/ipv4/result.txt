@@ -1,25 +1,18 @@
 🕘️更新时间,#genre#
-2026-09-16 07:50:10,http://123.163.114.241:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-16 22:27:18,http://173.208.234.146/live/cctv2.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://123.163.114.241:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://173.208.234.146/live/cctv2.m3u8
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
-CCTV-3,http://123.163.114.241:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
-CCTV-4,http://123.163.114.241:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
+CCTV-5,http://173.208.234.146/live/cctv5p.m3u8
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
-CCTV-5,http://123.163.114.241:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://123.163.114.241:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
-CCTV-7,http://123.163.114.241:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://123.163.114.241:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://123.163.114.241:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-CCTV-10,http://123.163.114.241:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
-CCTV-11,http://123.163.114.241:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://drive.mxmy.net:8888/udp/239.3.1.65:8132
+CCTV-16,http://173.208.234.146/live/cctv16.m3u8
 CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
@@ -31,25 +24,22 @@ CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 黑龙江卫视,http://drive.mxmy.net:8888/udp/239.3.1.133:8016
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
-东方卫视,http://123.163.114.241:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://123.163.114.241:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://123.163.114.241:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
-河南卫视,http://123.163.114.241:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://101.66.198.207:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://101.66.198.207:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
+吉林卫视,http://101.66.198.207:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 江西卫视,http://drive.mxmy.net:8888/udp/239.3.1.123:8164
-江西卫视,http://123.163.114.241:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://drive.mxmy.net:8888/udp/239.3.1.210:8056
-辽宁卫视,http://123.163.114.241:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://123.163.114.241:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://101.66.198.207:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
-山东卫视,http://123.163.114.241:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://123.163.114.241:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://222.134.245.16:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://drive.mxmy.net:8888/udp/239.3.1.141:1234
-新疆卫视,http://123.163.114.241:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://123.163.114.241:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
 广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
+广东珠江,http://173.208.234.146/live/gdzj.m3u8
+广东体育,http://173.208.234.146/live/gdty.m3u8
+广东新闻,http://173.208.234.146/live/gdxw.m3u8
