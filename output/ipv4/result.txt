@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-29 09:21:03,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2026-09-30 00:12:28,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 📺央视频道,#genre#
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
@@ -7,14 +7,15 @@ CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
 CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=55def6afe55d212c4ebd9540907c9396
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
 CCTV-14,http://drive.mxmy.net:8888/udp/239.3.1.65:8132
 CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
-CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 
 📡卫视频道,#genre#
+浙江卫视,http://120.40.39.246:352/newlive/live/hls/32/live.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -24,10 +25,9 @@ CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
 江西卫视,http://drive.mxmy.net:8888/udp/239.3.1.123:8164
-辽宁卫视,http://drive.mxmy.net:8888/udp/239.3.1.210:8056
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
 天津卫视,http://drive.mxmy.net:8888/udp/239.3.1.141:1234
 
 ☘️广东频道,#genre#
-广东珠江,http://173.208.234.146/live/gdzj.m3u8
 广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
+广东珠江,http://173.208.234.146/live/gdzj.m3u8
