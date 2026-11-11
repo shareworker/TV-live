@@ -1,27 +1,23 @@
 🕘️更新时间,#genre#
-2026-11-11 01:21:16,http://173.208.234.146/live/cctv4.m3u8
+2026-11-11 09:33:50,http://173.208.234.146/live/cctv4.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://173.208.234.146/live/cctv4.m3u8
 CCTV-4,http://45.192.97.170:8880/play/444.m3u8
-CCTV-5+,http://45.192.97.170:8880/play/197.m3u8
 CCTV-8,http://173.208.234.146/live/cctv8.m3u8
-CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e2fa3ce2f06ab50f9be495d5d3bf05e9
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
-CETV-1,http://27.12.12.19:1234/923287154
-CETV-2,http://27.12.12.19:1234/923287211
 
 📡卫视频道,#genre#
-广东卫视,http://bztv.tvbus.cc:8081/cdnlive/gdws.m3u8
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
+广东卫视,http://bztv.tvbus.cc:8081/cdnlive/gdws.m3u8
+浙江卫视,http://45.192.97.170:8880/play/542.m3u8
 浙江卫视,http://45.192.97.170:8880/play/489.m3u8
 浙江卫视,http://bztv.tvbus.cc:8081/cdnlive/zjws.m3u8
-浙江卫视,http://45.192.97.170:8880/play/542.m3u8
 浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
-湖南卫视,http://45.192.97.170:8880/play/523.m3u8
-湖南卫视,http://45.192.97.170:8880/play/476.m3u8
 湖南卫视,http://bztv.tvbus.cc:8081/cdnlive/hnws.m3u8
+湖南卫视,http://45.192.97.170:8880/play/476.m3u8
+湖南卫视,http://45.192.97.170:8880/play/523.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://45.192.97.170:8880/play/509.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
