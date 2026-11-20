@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2026-11-20 10:44:43,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts
+2026-11-21 02:04:10,http://173.208.234.146/live/cctv4.m3u8
 
 📺央视频道,#genre#
-CCTV-4,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts
 CCTV-4,http://173.208.234.146/live/cctv4.m3u8
+CCTV-4,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts
 CCTV-7,http://173.208.234.146/live/cctv7.m3u8
 CCTV-8,http://173.208.234.146/live/cctv8.m3u8
-CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3fd39399ff1d9c66c94af29354fc1624
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 
 📡卫视频道,#genre#
@@ -15,3 +15,4 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
 
 ☘️广东频道,#genre#
+广东体育,http://167.88.62.43:64013/0.ts
